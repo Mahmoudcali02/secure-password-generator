@@ -15,7 +15,7 @@
         * upper case letter
 
 # Links 
-Repository link:
+Repository link: https://github.com/Mahmoudcali02/secure-password-generator
 
 Deployed link:
 
