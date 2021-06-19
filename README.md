@@ -17,7 +17,7 @@
 # Links 
 Repository link: https://github.com/Mahmoudcali02/secure-password-generator
 
-Deployed link:
+Deployed link: https://mahmoudcali02.github.io/secure-password-generator/#index.html
 
 # screenshot 
 ![Screenshot](assets/images/screenshot.png)
